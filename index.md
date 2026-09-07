@@ -12,15 +12,19 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
 
 ## Functional Skills
 
-<ul class="side-by-side">
-  <li>Python</li>
-  <li>SQL</li>
-  <li>Problem-solving</li>
-  <li>Time Management</li>
-  <li>Leadership</li>
-  <li>Communication</li>
-  <li>Customer Service</li>
-</ul> 
+>Python
+>
+>SQL
+>
+>Problem-solving
+>
+>Time Management
+>
+>Leadership
+>
+>Communication
+>
+>Customer Service
 
 ### Header 3
 
@@ -98,9 +102,15 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Certificates:
+###### Google Cybersecurity:
+><a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d">Foundations of Cybersecurity</a>
+>
+><a href="https://coursera.org/share/6dbd68ed5306cc3cc145fc6bc87bce6b">Play It Safe: Manage Security Risks</a>
+>
+><a href="https://coursera.org/share/40c81503d2cdfb3777fd5a917ce21c88">Connect and Protect: Networks and Network Security</a>
+>
+><a href="https://coursera.org/share/5c577b54e12d33a258d965b45a50a751">Tools of the Trade: Linux and SQL</a>
 
 
 ### Definition lists can be used with HTML syntax.
