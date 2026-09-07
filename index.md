@@ -4,7 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[LinkedIn][(www.linkedin.com/in/reginald-perry-jr-13655b4b](https://www.linkedin.com/in/reginald-perry-jr-13655b4b/)).
 <a href="https://www.linkedin.com/in/reginald-perry-jr-13655b4b/">LinkedIn</a>
 
 There should be whitespace between paragraphs.
