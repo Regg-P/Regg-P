@@ -1,5 +1,11 @@
 ## Hi, I'm Reggie👋
-A collection of projects showcasing my technical knowledge, cybersecurity skills, and continuous learning in areas such as Python, SQL, networking, and information security.
+<a href="https://www.linkedin.com/in/reginald-perry-jr-13655b4b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badage&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction]
+
+I am an aspiring cybersecurity professional with a strong interest in technology, information security, and problem-solving. I am currently expanding my technical skills through the Google Cybersecurity Professional Certificate, the TryHackMe Cyber Security Learning Roadmap, and a hands-on cybersecurity internship with Cybertection LLC.
+
+#Objective
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
