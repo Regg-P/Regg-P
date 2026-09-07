@@ -1,5 +1,5 @@
 title: Reginald Perry Jr Portfolio of Cybersecurity Projects
 description: A collection of projects showcasing my technical knowledge, cybersecurity skills, and continuous learning in areas such as Python, SQL, networking, and information security.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
