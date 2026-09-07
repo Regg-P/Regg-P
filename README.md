@@ -25,7 +25,22 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 
 
 ## Certifications
+#### Google Cybersecurity Professional Certificate:
+<div>
+  <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</a></a>
+  <a href="https://coursera.org/share/6dbd68ed5306cc3cc145fc6bc87bce6b"><img src="https://img.shields.io/badge/Google%20Play%20It%20Safe%3A%20Manage%20Security%20Risks-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a></a>
+  <a href="https://coursera.org/share/40c81503d2cdfb3777fd5a917ce21c88"> <img src="https://img.shields.io/badge/Google%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a></a>
+  <a href="https://coursera.org/share/5c577b54e12d33a258d965b45a50a751"> <img src="https://img.shields.io/badge/Google%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a></a>
+</div>
 
+#### Coddy.Tech
+<div>
+  <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU">
+</div>
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
