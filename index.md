@@ -16,6 +16,7 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
   <li>Python</li>
   <li>SQL</li>
     <lu>
+      <li>Help<li>
       <li>Problem-solving</li>
       <li>Time Management</li>
       <li>Leadership</li>
