@@ -10,7 +10,7 @@ Aspiring Cybersecurity Professional
 
 To build and maintain a professional cybersecurity portfolio that demonstrates my technical knowledge, hands-on experience, and continuous growth in cybersecurity and information technology. Through practical projects and labs, I aim to showcase my skills in areas such as Python, SQL, networking, security fundamentals, threat analysis, and problem-solving while developing the skills necessary to pursue a career as a cybersecurity professional.
 
-## Header 2
+## Functional Skills
 
 > This is a blockquote following a header.
 >
