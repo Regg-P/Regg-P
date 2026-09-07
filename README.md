@@ -12,6 +12,20 @@ My objective is to build a strong foundation in cybersecurity through continuous
 My immediate career goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can gain practical experience monitoring security events, analyzing alerts, identifying potential threats, and supporting incident response. As I continue to develop my technical and offensive security skills, my long-term goal is to advance into a Penetration Tester role and specialize in identifying and exploiting vulnerabilities to help organizations strengthen their security.
 
 Through this portfolio, I will document my projects, labs, and cybersecurity learning journey while building the practical skills necessary to grow from an entry-level SOC Analyst into a skilled penetration tester.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project]
+
+| Skill                                             | Associated Project            |
+|---------------------------------------------------|-------------------------------|
+|                                                   |                               |
+
+## Tools 
+[Provide tools and break then down into categories. Use ChatGPT to help create the link]
+
+
+## Certifications
+
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
