@@ -6,10 +6,6 @@ Aspiring Cybersecurity Professional
 
 <a href="https://www.linkedin.com/in/reginald-perry-jr-13655b4b/">LinkedIn</a>
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Objective
 
 To build and maintain a professional cybersecurity portfolio that demonstrates my technical knowledge, hands-on experience, and continuous growth in cybersecurity and information technology. Through practical projects and labs, I aim to showcase my skills in areas such as Python, SQL, networking, security fundamentals, threat analysis, and problem-solving while developing the skills necessary to pursue a career as a cybersecurity professional.
