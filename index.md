@@ -21,6 +21,13 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
   <li>Communication</li>
   <li>Customer Service</li>
 </ul> 
+.side-by-side {
+  display: flex;
+  list-style-type: disc; /* Keeps the bullet dots */
+  gap: 20px; /* Space between each item */
+  padding-left: 20px: /* Aligns the bullets nicely */
+  margin: 0;
+}
 
 ### Header 3
 
