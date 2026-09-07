@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Objective
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+To build and maintain a professional cybersecurity portfolio that demonstrates my technical knowledge, hands-on experience, and continuous growth in cybersecurity and information technology. Through practical projects and labs, I aim to showcase my skills in areas such as Python, SQL, networking, security fundamentals, threat analysis, and problem-solving while developing the skills necessary to pursue a career as a cybersecurity professional.
 
 ## Header 2
 
