@@ -1,5 +1,5 @@
 ## Hi, I'm Reggie👋
-
+A collection of projects showcasing my technical knowledge, cybersecurity skills, and continuous learning in areas such as Python, SQL, networking, and information security.
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
