@@ -39,7 +39,10 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 
 #### Coddy.Tech
 <div>
-  <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU">
+  <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Python%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://coddy.tech/certifications/GWvmoq-cTiZhY"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20HTML%20Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://coddy.tech/certifications/GWvmoq-qrrEEX"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20SQL%20for%20Beginners-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://coddy.tech/certifications/GWvmoq-9yHGYz"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Introduction%20to%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </div>
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
