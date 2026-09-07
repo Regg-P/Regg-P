@@ -12,15 +12,12 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
 
 ## Functional Skills
 
-<ul>
+<ul class="side-by-side">
   <li>Python</li>
   <li>SQL</li>
-    <lu>
-      <li>Help<li>
-      <li>Problem-solving</li>
-      <li>Time Management</li>
-      <li>Leadership</li>
-    </lu>
+  <li>Problem-solving</li>
+  <li>Time Management</li>
+  <li>Leadership</li>
   <li>Communication</li>
   <li>Customer Service</li>
 </ul> 
