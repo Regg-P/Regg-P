@@ -5,7 +5,13 @@
 
 I am an aspiring cybersecurity professional with a strong interest in technology, information security, and problem-solving. I am currently expanding my technical skills through the Google Cybersecurity Professional Certificate, the TryHackMe Cyber Security Learning Roadmap, and a hands-on cybersecurity internship with Cybertection LLC.
 
-#Objective
+## Objective
+
+My objective is to build a strong foundation in cybersecurity through continuous learning, hands-on practice, and real-world experience. I aim to develop and demonstrate my technical abilities in areas such as network security, threat detection, vulnerability assessment, Python, SQL, penetration testing, and security analysis.
+
+My immediate career goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can gain practical experience monitoring security events, analyzing alerts, identifying potential threats, and supporting incident response. As I continue to develop my technical and offensive security skills, my long-term goal is to advance into a Penetration Tester role and specialize in identifying and exploiting vulnerabilities to help organizations strengthen their security.
+
+Through this portfolio, I will document my projects, labs, and cybersecurity learning journey while building the practical skills necessary to grow from an entry-level SOC Analyst into a skilled penetration tester.
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
