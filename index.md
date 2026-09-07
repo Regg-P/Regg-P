@@ -102,7 +102,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Certificates:
+### Certifications:
 ###### Google Cybersecurity:
 ><a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d">Foundations of Cybersecurity</a>
 >
