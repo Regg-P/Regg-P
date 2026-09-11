@@ -45,7 +45,7 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 </p>
 
 
-## Certifications
+## Certificate & Certifications 
 #### Google Cybersecurity Professional Certificate:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -58,7 +58,7 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 </a></a>
 </div>
 
-#### Coddy.Tech
+#### Coddy.Tech Certificate:
 <div>
   <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Python%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://coddy.tech/certifications/GWvmoq-cTiZhY"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20HTML%20Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
