@@ -34,10 +34,9 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 ### 🔐 Cybersecurity
 <p>
   <a href="https://tryhackme.com/p/ReggiePerryJr">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-</a>
 </p>
 
 ### 🧰 Development & Version Control
