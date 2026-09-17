@@ -14,7 +14,7 @@ My immediate career goal is to join a Security Operations Center (SOC) as a Tier
 Through this portfolio, I will document my projects, labs, and cybersecurity learning journey while building the practical skills necessary to grow from an entry-level SOC Analyst into a skilled penetration tester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
+<!--Provide skills and associated project. Make sure to hyperlink the project-->
 
 | Skill                                             | Associated Project            |
 |---------------------------------------------------|-------------------------------|
