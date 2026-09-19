@@ -57,6 +57,10 @@ end
 
 ###### Header 6
 
+| Skill                                             | Associated Project            |
+|---------------------------------------------------|-------------------------------|
+| Decryption                                        |[View Activity: Decrypt an Encrypted Message](https://1drv.ms/w/c/d689194a38272a68/IQCjTDkGjLoqTL3fY9vPWph9Acd4uXLwo1eTQTqFPgDXTHg?e=9GbfxW)|
+|                                                   |                                |
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
