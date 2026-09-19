@@ -96,16 +96,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-![Cybersecurity Husky](./images/cybersecurity-husky.png)
-
-**<p align="center">
-  <img src="./images/cybersecurity-husky.png" alt="Cybersecurity Husky" width="500">
-</p>**
-
 ### Certifications:
 #### Google Cybersecurity Professional Certificate:
 <div>
@@ -148,3 +138,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+### Small image
+<p align="left">
+  <img 
+    src="https://img.magnific.com/free-vector/cyber-security-technology-illustration_24908-59535.jpg?semt=ais_hybrid&w=740&q=80"
+    alt="Cybersecurity"
+    width="200"
+  >
+</p>
