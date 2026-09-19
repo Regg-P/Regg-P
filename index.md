@@ -55,18 +55,12 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+#### Skills
 
 | Skill                                             | Associated Project            |
-|---------------------------------------------------|-------------------------------|
+|:--------------------------------------------------|:------------------------------|
 | Decryption                                        |[View Activity: Decrypt an Encrypted Message](https://1drv.ms/w/c/d689194a38272a68/IQCjTDkGjLoqTL3fY9vPWph9Acd4uXLwo1eTQTqFPgDXTHg?e=9GbfxW)|
 |                                                   |                                |
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -105,6 +99,12 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Cybersecurity Husky](./images/cybersecurity-husky.png)
+
+**<p align="center">
+  <img src="./images/cybersecurity-husky.png" alt="Cybersecurity Husky" width="500">
+</p>**
 
 ### Certifications:
 #### Google Cybersecurity Professional Certificate:
