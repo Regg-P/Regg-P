@@ -5,6 +5,8 @@ layout: default
 Aspiring Cybersecurity Professional
 
 <a href="https://www.linkedin.com/in/reginald-perry-jr-13655b4b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badage&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/ReggiePerryJr"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /> </a>
+
 
 # Objective
 
