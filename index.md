@@ -28,77 +28,15 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
 >
 >Customer Service
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-#### Skills
-
+### Projects
+***
 | Skill                                             | Associated Project            |
 |:--------------------------------------------------|:------------------------------|
 | Decryption                                        |[View Activity: Decrypt an Encrypted Message](https://1drv.ms/w/c/d689194a38272a68/IQCjTDkGjLoqTL3fY9vPWph9Acd4uXLwo1eTQTqFPgDXTHg?e=9GbfxW)|
 |                                                   |                                |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Certifications:
+### Certifications
+***
 #### Google Cybersecurity Professional:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
@@ -121,27 +59,7 @@ end
 </div>
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-### Small image
 <p align="left">
   <img 
     src="https://img.magnific.com/free-vector/cyber-security-technology-illustration_24908-59535.jpg?semt=ais_hybrid&w=740&q=80"
