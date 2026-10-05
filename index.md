@@ -37,6 +37,11 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
 
 ### Certifications
 ***
+#### CompTIA:
+<div>
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ In Progress" />
+</div>
+
 #### Google Cybersecurity Professional:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
