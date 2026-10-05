@@ -48,7 +48,7 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 
 
 ## Certificate & Certifications 
-#### Google Cybersecurity Professional Certificate:
+#### Google Cybersecurity Professional:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </a></a>
@@ -60,7 +60,13 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 </a></a>
 </div>
 
-#### Coddy.Tech Certificate:
+#### TryHackMe:
+<div>
+  <a href="YOUR_TRYHACKME_CERTIFICATE_LINK"> <img src="https://img.shields.io/badge/TryHackMe%20Pre%20Security%20(SEC0)-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
+  <a href="https://www.credly.com/badges/f9dea6db-03dd-4fff-aef1-0a060c377632/public_url"> <img src="https://img.shields.io/badge/TryHackMe%20Pre%20Security%20(SEC0)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security (SEC0)" /> </a>
+</div>
+
+#### Coddy.Tech:
 <div>
   <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Python%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://coddy.tech/certifications/GWvmoq-cTiZhY"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20HTML%20Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
