@@ -62,7 +62,6 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 
 #### TryHackMe:
 <div>
-  <a href="YOUR_TRYHACKME_CERTIFICATE_LINK"> <img src="https://img.shields.io/badge/TryHackMe%20Pre%20Security%20(SEC0)-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /> </a>
   <a href="https://www.credly.com/badges/f9dea6db-03dd-4fff-aef1-0a060c377632/public_url"> <img src="https://img.shields.io/badge/TryHackMe%20Pre%20Security%20(SEC0)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security (SEC0)" /> </a>
 </div>
 
