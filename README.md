@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-I am an aspiring cybersecurity professional with a strong interest in technology, information security, and problem-solving. I am currently expanding my technical skills through the Google Cybersecurity Professional Certificate, the TryHackMe Cyber Security Learning Roadmap, and a hands-on cybersecurity internship with Cybertection LLC.
+I am an aspiring cybersecurity professional with a strong interest in technology, information security, and problem-solving. My curiosity started as a kid when I would take things apart just to understand how they worked—and then put them back together. Today, I’m building on that curiosity through the Google Cybersecurity Professional Certificate, TryHackMe’s Cyber Security Learning Roadmap, and hands-on cybersecurity training. Detail-oriented and committed to protecting people, systems, and sensitive information through security best practices, problem-solving, and continuous learning.
 
 ## Objective
 
