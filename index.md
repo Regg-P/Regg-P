@@ -97,7 +97,7 @@ end
 - level 1 item
 
 ### Certifications:
-#### Google Cybersecurity Professional Certificate:
+#### Google Cybersecurity Professional:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="https://coursera.org/share/6dbd68ed5306cc3cc145fc6bc87bce6b"><img src="https://img.shields.io/badge/Google%20Play%20It%20Safe%3A%20Manage%20Security%20Risks-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
@@ -105,7 +105,12 @@ end
   <a href="https://coursera.org/share/5c577b54e12d33a258d965b45a50a751"> <img src="https://img.shields.io/badge/Google%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
 
-#### Coddy.Tech Certificate:
+#### TryHackMe:
+<div>
+  <a href="https://www.credly.com/badges/f9dea6db-03dd-4fff-aef1-0a060c377632/public_url"> <img src="https://img.shields.io/badge/TryHackMe%20Pre%20Security%20(SEC0)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security (SEC0)" /> </a>
+</div>
+
+#### Coddy.Tech:
 <div>
   <a href="https://coddy.tech/certifications/GWvmoq-python-ZP9neU"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Python%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://coddy.tech/certifications/GWvmoq-cTiZhY"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20HTML%20Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
