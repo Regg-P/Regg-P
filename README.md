@@ -49,6 +49,13 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
 
 
 ## Certifications 
+#### CompTIA:
+<dir>
+  <a href="#">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-EA1B22?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+</dir>
+
 #### Google Cybersecurity Professional:
 <div>
   <a href="https://coursera.org/share/3235ed5d7db390bf5c66139d12a3d33d"> <img src="https://img.shields.io/badge/Google%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -76,13 +83,6 @@ Through this portfolio, I will document my projects, labs, and cybersecurity lea
   <a href="https://coddy.tech/certifications/GWvmoq-qrrEEX"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20SQL%20for%20Beginners-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://coddy.tech/certifications/GWvmoq-9yHGYz"><img src="https://img.shields.io/badge/Coddy%20Tech%20%7C%20Introduction%20to%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </div>
-
-#### CompTIA:
-<dir>
-  <a href="#">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-EA1B22?style=for-the-badge&logo=comptia&logoColor=white" />
-</a>
-</dir>
 
 <!--
 **Regg-P/Regg-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
