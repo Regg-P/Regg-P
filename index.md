@@ -68,9 +68,11 @@ To build and maintain a professional cybersecurity portfolio that demonstrates m
 
 
 <p align="left">
-  <img 
-    src="https://img.magnific.com/free-vector/cyber-security-technology-illustration_24908-59535.jpg?semt=ais_hybrid&w=740&q=80"
-    alt="Cybersecurity"
-    width="200"
-  >
+  <a href="https://www.credly.com/badges/f9dea6db-03dd-4fff-aef1-0a060c377632/public_url">
+    <img 
+      src="https://www.credly.com/earner/earned_badge/f9dea6db-03dd-4fff-aef1-0a060c377632"
+      alt="Credly Certificate Badge"
+      width="150"
+    >
+  </a>
 </p>
